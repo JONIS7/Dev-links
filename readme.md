@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Projeto de area de links" src="" width="100%">
+  <img alt="Projeto de area de links" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ Um divulgador de links para Dev e outros.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ODWynRtF6b8CQCSUmPDvKJ/DevLinks-•-Projeto-Discover-(Community)?type=design&node-id=1437-191&mode=design&t=FJAWD535KULKdPfz-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/ODWynRtF6b8CQCSUmPDvKJ/DevLinks-•-Projeto-Discover-(Community)?type=design&node-id=1437-191&mode=design&t=FJAWD535KULKdPfz-1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
