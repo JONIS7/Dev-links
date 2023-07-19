@@ -28,6 +28,7 @@ body{
   background-position: top center;
   background-size: cover;*/
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100%;
 } 
 body *{
     font-family: 'Inter', sans-serif;
@@ -139,4 +140,12 @@ footer{
     padding: 24px;
     text-align: center;
     font-size: 14px;
+}
+@media (min-width:700px){
+    :root {
+        --bg-url:url(./assets/bg.jpg);
+    }
+    .light{
+        --bg-url: url(./assets/bg-light.jpg);
+    }
 }
