@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Um divulgador de links para Dev e outros.
+[DESSE LINK](<https://jonis7.github.io/Dev-links/>)
 
 ## 🔖 Layout
 
