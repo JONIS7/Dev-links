@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um divulgador de links para Dev e outros.
+Um divulgador de links para Dev e outros.<br>
 [PROJETO](<https://jonis7.github.io/Dev-links/>)
 
 ## 🔖 Layout
